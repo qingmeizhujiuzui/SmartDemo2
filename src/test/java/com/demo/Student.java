@@ -11,4 +11,8 @@ import java.io.Serializable;
 public class Student implements Serializable {
 
     private static final long serialVersionUID = -8372449672507818217L;
+
+    public static void main(String[] args) {
+        System.out.println("testing ...");
+    }
 }
